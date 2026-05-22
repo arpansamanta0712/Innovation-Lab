@@ -1,0 +1,13 @@
+These are the instructions on how to install Llama AI in Minecraft Chat -
+
+1. Install Ollama
+2. Install Node.js
+3.Install all the files in this folder and name the folder mc-llama-bot
+4.Open Minecraft as usual and choose single player mode
+5.Pause the game and select start lan world
+6.click allow cheats ON and click open lan
+7.a port number should appear(REMEMBER THIS NUMBER)
+8.Click on AI Setup.bat and enter the port number
+9. the cmd window should say 'Llama Bot has successfully spawned into the world'
+10.At Minecraft Chat, it should say 'Llama-Bot joined the game.
+11.Enjoy! message on your chat, and Llamam bot will give and answer.
