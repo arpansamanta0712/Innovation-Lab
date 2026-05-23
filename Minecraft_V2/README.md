@@ -1,1 +1,2 @@
-
+MINECRAFT_V2 Project
+This project make Minecraft Java Edition 100 percent portable, Just plug and play. This uses WebAssembly + WebGPU for run "Java Runtime Environment" using modern version of chromium based web browser like Google Chrome, Microsoft Edge, etc. There a side project "MinecraftV2_Lite", there "Java Runtime Environment" is written in Javascript to run in old browser or non chromium based browser like Firefox, etc.
