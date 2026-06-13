@@ -1,0 +1,2 @@
+Upcoming AI project for Arduino ai physical challenge 2026.
+using only salvaged materials snd uno q
